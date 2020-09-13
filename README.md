@@ -1,4 +1,4 @@
-This is Product Landing page.
+This is Technical Documentation Page of C Language.
 
 It makes up the third part of my coding portofolio.
 
